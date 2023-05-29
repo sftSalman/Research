@@ -14,3 +14,8 @@
 ### -[Building detection algorithm in multi-scale remote sensing images based on attention mechanism](https://link.springer.com/article/10.1007/s12065-023-00849-9)
 ### -[CRAS-YOLO: A Novel Multi-Category Vessel Detection and Classification Model Based on YOLOv5s Algorithm](https://ieeexplore.ieee.org/abstract/document/10035382)
 ### -[Object detection using YOLO: challenges, architectural successors, datasets and applications](https://link.springer.com/article/10.1007/s11042-022-13644-y)
+### -[WilDect-YOLO: An efficient and robust computer vision-based accurate object localization model for automated endangered wildlife detection](https://www.sciencedirect.com/science/article/abs/pii/S1574954122003697)
+### -[An experiment on DCGAN-based synthetic samples of flora species for YOLO-based classification](https://ieeexplore.ieee.org/abstract/document/10111248)
+### -[YOLOWeeds: A novel benchmark of YOLO object detectors for multi-class weed detection in cotton production systems](https://www.sciencedirect.com/science/article/abs/pii/S0168169923000431)
+### -[Aircraft Detection from Remote Sensing Images using YOLOV5 Architecture](https://ieeexplore.ieee.org/document/9780777)
+### -[Improved YOLOv5 network method for remote sensing image-based ground objects recognition](https://link.springer.com/article/10.1007/s00500-022-07106-8)
