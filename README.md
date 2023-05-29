@@ -12,3 +12,5 @@
 ### -[Deep Learning in Damage Assessment with Remote Sensing Data: A Review](https://link.springer.com/chapter/10.1007/978-3-031-21438-7_61)
 ### -[Anchor-free object detection in remote sensing images using a variable receptive field network](https://asp-eurasipjournals.springeropen.com/articles/10.1186/s13634-023-01013-2)
 ### -[Building detection algorithm in multi-scale remote sensing images based on attention mechanism](https://link.springer.com/article/10.1007/s12065-023-00849-9)
+### -[CRAS-YOLO: A Novel Multi-Category Vessel Detection and Classification Model Based on YOLOv5s Algorithm](https://ieeexplore.ieee.org/abstract/document/10035382)
+### -[Object detection using YOLO: challenges, architectural successors, datasets and applications](https://link.springer.com/article/10.1007/s11042-022-13644-y)
