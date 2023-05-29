@@ -9,3 +9,5 @@
 ### -[vvip Detecting volunteer cotton plants in a corn field with deep learning on UAV remote-sensing imager](https://www.sciencedirect.com/science/article/pii/S0168169922008596)
 ### -[A full data augmentation pipeline for small object detection based on generative adversarial networks](https://www.sciencedirect.com/science/article/pii/S0031320322004782)
 ### -[Monitoring the green evolution of vernacular buildings based on deep learning and multi-temporal remote sensing images](https://link.springer.com/article/10.1007/s12273-022-0927-7)
+### - [
+Deep Learning in Damage Assessment with Remote Sensing Data: A Review](https://link.springer.com/chapter/10.1007/978-3-031-21438-7_61)
