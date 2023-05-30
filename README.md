@@ -19,3 +19,5 @@
 ### -[YOLOWeeds: A novel benchmark of YOLO object detectors for multi-class weed detection in cotton production systems](https://www.sciencedirect.com/science/article/abs/pii/S0168169923000431)
 ### -[Aircraft Detection from Remote Sensing Images using YOLOV5 Architecture](https://ieeexplore.ieee.org/document/9780777)
 ### -[Improved YOLOv5 network method for remote sensing image-based ground objects recognition](https://link.springer.com/article/10.1007/s00500-022-07106-8)
+### - [Object detection in optical remote sensing images: A survey and a new benchmark](https://www.sciencedirect.com/science/article/abs/pii/S0924271619302825)
+### -[announcing-yoltv4-improved-satellite-imagery-object-detection](https://towardsdatascience.com/announcing-yoltv4-improved-satellite-imagery-object-detection-f5091e913fad)
